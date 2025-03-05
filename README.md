@@ -1,4 +1,4 @@
-# API REST na nuvem usando Spring Boot 3, Java 17 e Railway
+# API REST na nuvem usando Spring Boot 3 e Java 17
 Java RESTful API criada para o DIO Decola Tech
 
 ## Diagrama de classes
